@@ -8,5 +8,7 @@
     "tg_carwash": "1.1.0",
     "tg_discordwebhook": "1.2.2",
     "tg_taxsystem": "2.0.0",
-    "tg_farming": "1.0.0"
+    "tg_farming": "1.0.0",
+    "tg_lawnmowing": "1.0.0",
+    "tg_newspaper": "1.0.0"
 }
