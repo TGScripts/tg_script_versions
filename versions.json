@@ -10,5 +10,6 @@
     "tg_taxsystem": "2.0.0",
     "tg_farming": "1.0.0",
     "tg_lawnmowing": "1.0.0",
-    "tg_newspaper": "1.0.0"
+    "tg_newspaper": "1.0.0",
+    "tg_delivery": "1.0.0"
 }
